@@ -4,8 +4,8 @@
   - (💻) mongodb.json
 - (📁) **node**
   - (💻) discord.js.json
-- (💻) .gitignore
-- (💻) LICENSE
+- (✅) .gitignore
+- (✅) LICENSE
 - (✅) PROJECT.md
 - (✅) README.md
 - (✅) template.json
