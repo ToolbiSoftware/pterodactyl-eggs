@@ -1,0 +1,29 @@
+{
+    "_comment": "",
+    "meta": {
+        "version": "TLBI_V1",
+        "update_url": null
+    },
+    "exported_at": "",
+    "name": "",
+    "author": "Toolbi Software Inc.",
+    "description": "",
+    "features": "",
+    "docker_images": {},
+    "file_denylist": [],
+    "startup": "",
+    "config": {
+        "files": "{}",
+        "startup": "{}",
+        "logs": "{}",
+        "stop": ""
+    },
+    "scripts": {
+        "installation": {
+            "script": "",
+            "container": "",
+            "entrypoint": ""
+        }
+    },
+    "variables": []
+}
